@@ -3,7 +3,10 @@
 ## 🧠 Overview
 This project demonstrates a full end-to-end exploitation of a vulnerable FTP service (vsFTPd 2.3.4) on the Metasploitable virtual machine using Kali Linux and Metasploit.
 
-The objective was to identify a vulnerability, exploit it, and gain root-level access to the system.
+The objective was to identify a vulnerable service, exploit it using a known backdoor, and gain root-level access.
+
+This project highlights practical penetration testing skills including reconnaissance, enumeration, exploitation, and post-exploitation.
+
 
 ---
 
