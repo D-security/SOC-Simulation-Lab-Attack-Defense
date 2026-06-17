@@ -45,4 +45,9 @@ nmap -sV 192.168.56.103
 ![Search Result](https://github.com/D-security/D-Security-Lab/blob/main/search.png))
 
 
+## 🚀 Future Work
 
+- Implement firewall rules to block the FTP exploit
+- Perform additional testing on web vulnerabilities (DVWA, Mutillidae)
+- Explore intrusion detection techniques
+``
