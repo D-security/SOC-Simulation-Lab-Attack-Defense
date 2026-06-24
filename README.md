@@ -58,7 +58,7 @@ login
 index=* login
 ``
 ```
-### Splunk Data Ingestion
+### 📊 Splunk Detection Results
 
 ![Data Ingestion](splunk-timeline.png)
 ``
