@@ -8,9 +8,12 @@ The goal was to identify how an attacker gains access,
 how the attack appears in logs, 
 and how security controls can prevent it.
 
-The objective was to identify a vulnerable service, exploit it using a known backdoor, and gain root-level access.
+The objective was to simulate a real-world attack scenario, 
+observe how the attack appears within system and network logs, 
+and implement security controls to detect and prevent it.
 
-This project highlights practical penetration testing skills including reconnaissance, enumeration, exploitation, and post-exploitation.
+This project focuses on both offensive and defensive perspectives, 
+mirroring how a SOC analyst investigates and responds to threats.
 
 ## Key Skills Demonstrated
 - Web exploitation (SQL injection)
