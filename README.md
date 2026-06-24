@@ -7,6 +7,12 @@ The objective was to identify a vulnerable service, exploit it using a known bac
 
 This project highlights practical penetration testing skills including reconnaissance, enumeration, exploitation, and post-exploitation.
 
+## Key Skills Demonstrated
+- Web exploitation (SQL injection)
+- Privilege escalation (Metasploit)
+- Network security (pfSense firewall)
+- SIEM monitoring (Splunk)
+- Incident response lifecycle
 
 ---
 
