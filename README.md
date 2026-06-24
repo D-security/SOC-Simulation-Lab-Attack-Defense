@@ -30,6 +30,32 @@ and implement security controls to detect and prevent it.
 This project focuses on both offensive and defensive perspectives, 
 mirroring how a SOC analyst investigates and responds to threats.
 
+
+## 🔍 Detection & Analysis (Splunk SIEM)
+
+The attack activity was monitored and analysed using Splunk SIEM by ingesting custom log data and identifying suspicious patterns.
+
+### 📥 Data Ingestion
+
+A custom log file (`attack.log`) was created to simulate attacker behaviour and uploaded into Splunk.
+
+The log included:
+- Login attempts
+- Failed authentication
+- Successful login activity
+- SQL injection payload (`' OR '1'='1`)
+- Data retrieval events
+
+---
+
+### 🔎 Detection Queries
+
+#### 🔑 Login Activity
+
+```spl
+login
+
+
 ## Key Skills Demonstrated
 - Web exploitation (SQL injection)
 - Privilege escalation (Metasploit)
