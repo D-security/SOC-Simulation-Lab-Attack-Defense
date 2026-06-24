@@ -49,6 +49,7 @@ The log included:
 ---
 
 ## 🔎 Detection Queries
+---
 
 ### 🔑 Login Activity
 
@@ -59,7 +60,7 @@ index=* login
 
 ### Splunk Data Ingestion
 
-![Data Ingestion]splunk-timeline.png)
+![Data Ingestion](splunk-timeline.png)
 ``
 
 
