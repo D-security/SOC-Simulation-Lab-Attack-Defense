@@ -6,6 +6,7 @@ Simulated a real-world cyber attack, detected malicious activity using Splunk SI
 
 ## Lab Architecture
 This diagram shows how traffic flows through the environment during the attack and detection process.
+
 ``` 
 Kali Linux Attacker → Target VM (Metasploitable)
            ↓
