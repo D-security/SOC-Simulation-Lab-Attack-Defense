@@ -57,7 +57,7 @@ The log included:
 login
 index=* login
 ``
-
+```
 ### Splunk Data Ingestion
 
 ![Data Ingestion](splunk-timeline.png)
