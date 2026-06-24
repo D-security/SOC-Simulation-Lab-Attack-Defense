@@ -64,6 +64,20 @@ index=* login
 ``
 
 
+The Splunk output above shows the complete attack sequence captured from the simulated log data.
+
+The events demonstrate:
+
+- Initial login attempt from an external IP address
+- Failed authentication attempt indicating possible brute-force behaviour
+- Successful login to the admin account
+- Execution of an SQL injection payload
+- Retrieval of multiple records from the system
+
+This confirms that suspicious activity can be identified by correlating multiple log events within Splunk.
+
+This highlights how SIEM tools like Splunk enable SOC analysts to detect, investigate, and understand attack behaviour through log analysis
+
 ```
 ## Key Skills Demonstrated
 - Web exploitation (SQL injection)
