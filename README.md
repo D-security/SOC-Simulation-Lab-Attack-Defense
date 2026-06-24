@@ -79,12 +79,15 @@ This confirms that suspicious activity can be identified by correlating multiple
 This highlights how SIEM tools like Splunk enable SOC analysts to detect, investigate, and understand attack behaviour through log analysis
 
 
+
 ## Key Skills Demonstrated
+
 - Web exploitation (SQL injection)
 - Privilege escalation (Metasploit)
-- Network security (pfSense firewall)
-- SIEM monitoring (Splunk)
-- Incident response lifecycle
+- SIEM monitoring and log analysis (Splunk)
+- Threat detection and event correlation
+- Incident investigation and analysis
+
 
 
 ## Attack & Defense Workflow
