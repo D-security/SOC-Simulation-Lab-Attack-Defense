@@ -57,6 +57,12 @@ login
 index=* login
 ``
 
+### Splunk Data Ingestion
+
+![Data Ingestion]splunk-timeline.png)
+``
+
+
 ```
 ## Key Skills Demonstrated
 - Web exploitation (SQL injection)
